@@ -1,4 +1,4 @@
-# Sorting-Alogorithms-Visualizer
+# Sorting-Algorithms-Visualizer
 Visualizes different sorting algorithms with Python and Pygrame, allows user to choose to sort ascendingly or descendingly.
 
 
